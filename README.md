@@ -7,7 +7,7 @@
  I always have interest to become a fullstack webdeveloper and I'm working on it.
  
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
-<img alt="Laravel" src="https://img.shields.io/badge/laraevl-%23777BB4.svg?style=flat-square&logo=Laravel&logoColor=black"/>
+<img alt="Laravel" src="https://img.shields.io/badge/laraevl-%#FFFFFF.svg?style=flat-square&logo=Laravel&logoColor=black"/>
 <!--
 **RuchitaGanni/RuchitaGanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
