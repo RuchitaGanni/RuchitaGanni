@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ I'm a backend developer working on supplychain digitalization projects for the past 2 years.
+ My technology knowledge covers PHP,Laravel,NodeJs,Loopback
+ Database knowledge MySql
+ Frontend Technology HTML,CSS
+ I always have interest to become a fullstack webdeveloper and I'm working on it.
 <!--
 **RuchitaGanni/RuchitaGanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
