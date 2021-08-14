@@ -6,7 +6,8 @@
  Frontend Technology HTML,CSS
  I always have interest to become a fullstack webdeveloper and I'm working on it.
  
-<img alt="PHP" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.php.net%2Fimages%2Flogos%2Fnew-php-logo.svg&imgrefurl=https%3A%2F%2Fwww.php.net%2Fdownload-logos.php&tbnid=j1itUWnOMiF45M&vet=12ahUKEwiToa_k6LDyAhUPB3IKHdI_ABAQMygAegUIARDLAQ..i&docid=stZFRta4RJZkvM&w=711&h=384&q=php%20image%20icon&ved=2ahUKEwiToa_k6LDyAhUPB3IKHdI_ABAQMygAegUIARDLAQ"/> 
+<img alt="PHP" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fphp-27-226042.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fphp-27&tbnid=aLVKeb_HrVgxUM&vet=12ahUKEwiToa_k6LDyAhUPB3IKHdI_ABAQMygBegUIARDNAQ..i&docid=b_Q7ajbpp_LEhM&w=512&h=512&q=php%20image%20icon&ved=2ahUKEwiToa_k6LDyAhUPB3IKHdI_ABAQMygBegUIARDNAQ"
+/> 
 <!--
 **RuchitaGanni/RuchitaGanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
