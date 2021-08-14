@@ -5,6 +5,8 @@
  Database knowledge MySql
  Frontend Technology HTML,CSS
  I always have interest to become a fullstack webdeveloper and I'm working on it.
+ 
+ <span><i class="fab fa-php"></i></span>
 <!--
 **RuchitaGanni/RuchitaGanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
