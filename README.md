@@ -6,8 +6,7 @@
  Frontend Technology HTML,CSS
  I always have interest to become a fullstack webdeveloper and I'm working on it.
  
-<img alt="PHP" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fphp-27-226042.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fphp-27&tbnid=aLVKeb_HrVgxUM&vet=12ahUKEwiToa_k6LDyAhUPB3IKHdI_ABAQMygBegUIARDNAQ..i&docid=b_Q7ajbpp_LEhM&w=512&h=512&q=php%20image%20icon&ved=2ahUKEwiToa_k6LDyAhUPB3IKHdI_ABAQMygBegUIARDNAQ"
-/> 
+<img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=flat-square&logo=adobexd&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
 <!--
 **RuchitaGanni/RuchitaGanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
