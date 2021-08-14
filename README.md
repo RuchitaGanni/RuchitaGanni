@@ -6,8 +6,7 @@
  Frontend Technology HTML,CSS
  I always have interest to become a fullstack webdeveloper and I'm working on it.
  
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
-<img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Loopback4" src="https://img.shields.io/badge/Loopback4-0078D4?style=for-the-badge&logo=Loopback4&logoColor=white" />
 <!--
 **RuchitaGanni/RuchitaGanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
