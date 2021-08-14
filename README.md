@@ -5,7 +5,7 @@
  I always have interest to become a fullstack webdeveloper and I'm working on it.
  
  Social : 
- [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ruchita-ganni/)
+ [![Linkedin Badge](https://img.shields.io/badge/-RuchitaGanni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchita-ganni/)](https://www.linkedin.com/in/ruchita-ganni/)
  
  languages: 
  
